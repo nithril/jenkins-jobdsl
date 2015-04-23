@@ -1,0 +1,12 @@
+[
+  {
+    "id": "project1",
+    "name": "Project 1",
+    "scm": "https://github.com/nithril/jenkins-jobdsl-project1.git"
+  },
+  {
+    "id": "project2",
+    "name": "Project 2",
+    "scm": "https://github.com/nithril/jenkins-jobdsl-project2.git"
+  }
+]
