@@ -1,6 +1,6 @@
 import groovy.json.JsonSlurper
 
-def projects = new JsonSlurper().parse(new FileReader("project.json"))
+def projects = new JsonSlurper().parse(new FileReader("src/main/groovy/project.json"))
 
 
 
