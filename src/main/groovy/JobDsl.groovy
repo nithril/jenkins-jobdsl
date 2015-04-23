@@ -1,6 +1,6 @@
 import groovy.json.JsonSlurper
 
-def projects = new JsonSlurper().parse(new FileReader("/home/nithril/development/project/jenkins-workflow/job-dsl/src/main/groovy/project.json"))
+def projects = new JsonSlurper().parse(new FileReader("project.json"))
 
 
 
